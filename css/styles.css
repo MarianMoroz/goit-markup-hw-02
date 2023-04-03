@@ -7,7 +7,7 @@
     --LIGHT-SLATE:#8E8F99;
     --CORNFLOWER:#E7E9FC;
     --CLOUD:#F4F4FD;
-    --NAVY-BLUE-MODAL:#2E2F42;
+    --NAVY-BLUE-MODAL:#2E2F42; 
     --GREY:#2E2F42;
     --WHITE:#FFFFFF; 
 }
@@ -161,7 +161,7 @@
    /* ==========FOOTER========== */
    .scrolls{
    font-family: inherit;
-    font-style: normal;
+   font-style: normal;
    font-weight: 500;
    font-size: 16px;
    line-height: 1.5;

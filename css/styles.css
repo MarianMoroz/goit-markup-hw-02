@@ -123,16 +123,15 @@
    /* ------hang------ */
    
    /* ------what are we doing------ */
-   .subject {
+   .header-two {
     font-weight: 700;
-    font-size: 36px;
     line-height: 1.11;
-    text-align:  center;
-    letter-spacing: 0.02em;
+    text-align: center;
     text-transform: capitalize;
-    color: var(--navy-blue-modal);
-    background-color: var(--white);
-   }
+    letter-spacing: 0.02em;
+    font-size: 36px;
+    color: var(--navy-blue);
+  }
    
 
    .team-group{

@@ -34,8 +34,12 @@
     color: var(--iris);
    
    }
+   .logo link {
+    color: var(--iris);
+   }
+
    .studiologo {
-       color:var(--navy-blue);
+    color:var(--navy-blue);
    }
    .menu-link{
    font-weight: 500;

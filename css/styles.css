@@ -162,7 +162,7 @@
    }
    /* ------footer------*/
 
-   .scrolls{
+   .btn-port{
    font-family: inherit;
    font-style: normal;
    font-weight: 500;
@@ -173,8 +173,8 @@
    background-color:var(--cloud);
    cursor: pointer;
    }
-   .scrolls:hover,
-   .scrolls:focus{
+   .btn-port:hover,
+   .btn-port:focus{
        color: var(--white);
        background-color:var(--ocean);
    }

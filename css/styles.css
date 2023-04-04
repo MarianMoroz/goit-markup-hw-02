@@ -130,7 +130,7 @@
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    color: var(--navy-blue);
+    color: var(--navy-blue-modal);
     background-color: var(--white); 
    }
    .team-group{

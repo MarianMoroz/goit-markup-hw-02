@@ -147,8 +147,8 @@
    /* ------team------ */
    
    /* ------footer------*/
-   .footer-style{
-   background:var(--navy-blue);
+   .footer-style {
+    background:var(--navy-blue);
    }
    .logo-footer{
        color:var(--cloud);

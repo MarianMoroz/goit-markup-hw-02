@@ -36,10 +36,26 @@
    }
    .logo link {
     color: var(--iris);
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+    text-decoration: none;
    }
 
    .studiologo {
     color:var(--navy-blue);
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+    text-decoration: none;
    }
    .menu-link{
    font-weight: 500;
